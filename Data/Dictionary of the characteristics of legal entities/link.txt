@@ -1,0 +1,7 @@
+entity-legal.npy
+链接：https://pan.baidu.com/s/1ZdMTjqJg3_PoDDv7G7BGMQ?pwd=6dkk 
+提取码：6dkk
+
+legal-word2vec.model
+链接：https://pan.baidu.com/s/1J6cEh9UplDrkk7YBgFOqeg?pwd=6dkk 
+提取码：6dkk

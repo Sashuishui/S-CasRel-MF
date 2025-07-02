@@ -1,0 +1,150 @@
+2025-06-26 16:46:52 PM - INFO - last save epoch: 0, precision: 0.0000, recall: 0.0000, f1:0.0000
+2025-06-26 16:47:06 PM - INFO - epoch: 10 global_step: 125.0000 global_loss: 32.0176
+2025-06-26 16:47:07 PM - INFO - last save epoch: 0, precision: 0.0000, recall: 0.0000, f1:0.0000
+2025-06-26 16:47:22 PM - INFO - last save epoch: 0, precision: 0.0000, recall: 0.0000, f1:0.0000
+2025-06-26 16:47:35 PM - INFO - epoch: 20 global_step: 251.0000 global_loss: 10.7823
+2025-06-26 16:47:36 PM - INFO - last save epoch: 0, precision: 0.0000, recall: 0.0000, f1:0.0000
+2025-06-26 16:47:38 PM - INFO - save model......
+2025-06-26 16:47:40 PM - INFO - epoch: 20, precision: 0.3333 recall: 0.0047 f1_score: 0.0092
+2025-06-26 16:47:53 PM - INFO - last save epoch: 20, precision: 0.3333, recall: 0.0047, f1:0.0092
+2025-06-26 16:47:55 PM - INFO - save model......
+2025-06-26 16:47:56 PM - INFO - epoch: 25, precision: 0.7500 recall: 0.0981 f1_score: 0.1736
+2025-06-26 16:48:18 PM - INFO - epoch: 30 global_step: 377.0000 global_loss: 6.6051
+2025-06-26 16:48:20 PM - INFO - last save epoch: 25, precision: 0.7500, recall: 0.0981, f1:0.1736
+2025-06-26 16:48:22 PM - INFO - save model......
+2025-06-26 16:48:29 PM - INFO - epoch: 30, precision: 0.8727 recall: 0.2243 f1_score: 0.3569
+2025-06-26 16:48:43 PM - INFO - last save epoch: 30, precision: 0.8727, recall: 0.2243, f1:0.3569
+2025-06-26 16:48:44 PM - INFO - save model......
+2025-06-26 16:48:46 PM - INFO - epoch: 35, precision: 0.8721 recall: 0.3505 f1_score: 0.5000
+2025-06-26 16:48:56 PM - INFO - epoch: 39 global_step: 503.0000 global_loss: 4.0195
+2025-06-26 16:48:59 PM - INFO - last save epoch: 35, precision: 0.8721, recall: 0.3505, f1:0.5000
+2025-06-26 16:49:01 PM - INFO - save model......
+2025-06-26 16:49:02 PM - INFO - epoch: 40, precision: 0.7737 recall: 0.4953 f1_score: 0.6040
+2025-06-26 16:49:16 PM - INFO - last save epoch: 40, precision: 0.7737, recall: 0.4953, f1:0.6040
+2025-06-26 16:49:17 PM - INFO - save model......
+2025-06-26 16:49:19 PM - INFO - epoch: 45, precision: 0.8163 recall: 0.5607 f1_score: 0.6648
+2025-06-26 16:49:29 PM - INFO - epoch: 49 global_step: 629.0000 global_loss: 2.6789
+2025-06-26 16:49:33 PM - INFO - last save epoch: 45, precision: 0.8163, recall: 0.5607, f1:0.6648
+2025-06-26 16:49:34 PM - INFO - save model......
+2025-06-26 16:49:36 PM - INFO - epoch: 50, precision: 0.7803 recall: 0.6308 f1_score: 0.6977
+2025-06-26 16:49:49 PM - INFO - last save epoch: 50, precision: 0.7803, recall: 0.6308, f1:0.6977
+2025-06-26 16:49:51 PM - INFO - save model......
+2025-06-26 16:49:53 PM - INFO - epoch: 55, precision: 0.7784 recall: 0.6729 f1_score: 0.7218
+2025-06-26 16:50:01 PM - INFO - epoch: 59 global_step: 755.0000 global_loss: 2.0064
+2025-06-26 16:50:10 PM - INFO - last save epoch: 55, precision: 0.7784, recall: 0.6729, f1:0.7218
+2025-06-26 16:50:25 PM - INFO - last save epoch: 55, precision: 0.7784, recall: 0.6729, f1:0.7218
+2025-06-26 16:50:35 PM - INFO - epoch: 68 global_step: 881.0000 global_loss: 1.5951
+2025-06-26 16:50:40 PM - INFO - last save epoch: 55, precision: 0.7784, recall: 0.6729, f1:0.7218
+2025-06-26 16:50:42 PM - INFO - save model......
+2025-06-26 16:50:44 PM - INFO - epoch: 70, precision: 0.7209 recall: 0.7243 f1_score: 0.7226
+2025-06-26 16:50:57 PM - INFO - last save epoch: 70, precision: 0.7209, recall: 0.7243, f1:0.7226
+2025-06-26 16:51:06 PM - INFO - epoch: 78 global_step: 1007.0000 global_loss: 1.3426
+2025-06-26 16:51:13 PM - INFO - last save epoch: 70, precision: 0.7209, recall: 0.7243, f1:0.7226
+2025-06-26 16:51:14 PM - INFO - save model......
+2025-06-26 16:51:16 PM - INFO - epoch: 80, precision: 0.7404 recall: 0.7196 f1_score: 0.7299
+2025-06-26 16:51:29 PM - INFO - last save epoch: 80, precision: 0.7404, recall: 0.7196, f1:0.7299
+2025-06-26 16:51:31 PM - INFO - save model......
+2025-06-26 16:51:33 PM - INFO - epoch: 85, precision: 0.7624 recall: 0.7196 f1_score: 0.7404
+2025-06-26 16:51:39 PM - INFO - epoch: 88 global_step: 1133.0000 global_loss: 1.1570
+2025-06-26 16:51:46 PM - INFO - last save epoch: 85, precision: 0.7624, recall: 0.7196, f1:0.7404
+2025-06-26 16:52:01 PM - INFO - last save epoch: 85, precision: 0.7624, recall: 0.7196, f1:0.7404
+2025-06-26 16:52:08 PM - INFO - epoch: 97 global_step: 1259.0000 global_loss: 0.9822
+2025-06-26 16:52:16 PM - INFO - last save epoch: 85, precision: 0.7624, recall: 0.7196, f1:0.7404
+2025-06-26 16:52:31 PM - INFO - last save epoch: 85, precision: 0.7624, recall: 0.7196, f1:0.7404
+2025-06-26 16:52:32 PM - INFO - save model......
+2025-06-26 16:52:34 PM - INFO - epoch: 105, precision: 0.7608 recall: 0.7430 f1_score: 0.7518
+2025-06-26 16:52:39 PM - INFO - epoch: 107 global_step: 1385.0000 global_loss: 0.8672
+2025-06-26 16:52:48 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:53:03 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:53:08 PM - INFO - epoch: 117 global_step: 1511.0000 global_loss: 0.7576
+2025-06-26 16:53:18 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:53:33 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:53:37 PM - INFO - epoch: 126 global_step: 1637.0000 global_loss: 0.7091
+2025-06-26 16:53:47 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:54:02 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:54:06 PM - INFO - epoch: 136 global_step: 1763.0000 global_loss: 0.6291
+2025-06-26 16:54:17 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:54:32 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:54:35 PM - INFO - epoch: 146 global_step: 1889.0000 global_loss: 0.5501
+2025-06-26 16:54:47 PM - INFO - last save epoch: 105, precision: 0.7608, recall: 0.7430, f1:0.7518
+2025-06-26 16:54:49 PM - INFO - save model......
+2025-06-26 16:54:51 PM - INFO - epoch: 150, precision: 0.7745 recall: 0.7383 f1_score: 0.7560
+2025-06-26 16:55:04 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:55:06 PM - INFO - epoch: 156 global_step: 2015.0000 global_loss: 0.5200
+2025-06-26 16:55:20 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:55:34 PM - INFO - epoch: 165 global_step: 2141.0000 global_loss: 0.4723
+2025-06-26 16:55:35 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:55:50 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:56:03 PM - INFO - epoch: 175 global_step: 2267.0000 global_loss: 0.4384
+2025-06-26 16:56:05 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:56:20 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:56:32 PM - INFO - epoch: 185 global_step: 2393.0000 global_loss: 0.4042
+2025-06-26 16:56:35 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:56:50 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:57:02 PM - INFO - epoch: 194 global_step: 2519.0000 global_loss: 0.3859
+2025-06-26 16:57:05 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:57:20 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:57:31 PM - INFO - epoch: 204 global_step: 2645.0000 global_loss: 0.3455
+2025-06-26 16:57:35 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:57:50 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:58:00 PM - INFO - epoch: 214 global_step: 2771.0000 global_loss: 0.3296
+2025-06-26 16:58:05 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:58:20 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:58:30 PM - INFO - epoch: 223 global_step: 2897.0000 global_loss: 0.3439
+2025-06-26 16:58:35 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:58:50 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:58:59 PM - INFO - epoch: 233 global_step: 3023.0000 global_loss: 0.3165
+2025-06-26 16:59:06 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:59:20 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:59:28 PM - INFO - epoch: 243 global_step: 3149.0000 global_loss: 0.2832
+2025-06-26 16:59:35 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:59:50 PM - INFO - last save epoch: 150, precision: 0.7745, recall: 0.7383, f1:0.7560
+2025-06-26 16:59:52 PM - INFO - save model......
+2025-06-26 16:59:54 PM - INFO - epoch: 250, precision: 0.7740 recall: 0.7523 f1_score: 0.7630
+2025-06-26 16:59:59 PM - INFO - epoch: 252 global_step: 3275.0000 global_loss: 0.2924
+2025-06-26 17:00:10 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:00:25 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:00:31 PM - INFO - epoch: 262 global_step: 3401.0000 global_loss: 0.2853
+2025-06-26 17:00:40 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:00:55 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:01:00 PM - INFO - epoch: 272 global_step: 3527.0000 global_loss: 0.2815
+2025-06-26 17:01:10 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:01:26 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:01:30 PM - INFO - epoch: 282 global_step: 3653.0000 global_loss: 0.2524
+2025-06-26 17:01:41 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:01:56 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:02:00 PM - INFO - epoch: 291 global_step: 3779.0000 global_loss: 0.2534
+2025-06-26 17:02:11 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:02:26 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:02:29 PM - INFO - epoch: 301 global_step: 3905.0000 global_loss: 0.2404
+2025-06-26 17:02:41 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:02:56 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:02:58 PM - INFO - epoch: 311 global_step: 4031.0000 global_loss: 0.2657
+2025-06-26 17:03:18 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:03:33 PM - INFO - epoch: 320 global_step: 4157.0000 global_loss: 0.2387
+2025-06-26 17:03:33 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:03:48 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:04:02 PM - INFO - epoch: 330 global_step: 4283.0000 global_loss: 0.2689
+2025-06-26 17:04:03 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:04:18 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:04:31 PM - INFO - epoch: 340 global_step: 4409.0000 global_loss: 0.2436
+2025-06-26 17:04:33 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:04:48 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:05:00 PM - INFO - epoch: 349 global_step: 4535.0000 global_loss: 0.2245
+2025-06-26 17:05:03 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:05:19 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:05:30 PM - INFO - epoch: 359 global_step: 4661.0000 global_loss: 0.2189
+2025-06-26 17:05:34 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:05:49 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:05:59 PM - INFO - epoch: 369 global_step: 4787.0000 global_loss: 0.2116
+2025-06-26 17:06:04 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:06:19 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:06:29 PM - INFO - epoch: 378 global_step: 4913.0000 global_loss: 0.2087
+2025-06-26 17:06:34 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:06:49 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:06:58 PM - INFO - epoch: 388 global_step: 5039.0000 global_loss: 0.2138
+2025-06-26 17:07:04 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:07:20 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:07:28 PM - INFO - epoch: 398 global_step: 5165.0000 global_loss: 0.2062
+2025-06-26 17:07:35 PM - INFO - last save epoch: 250, precision: 0.7740, recall: 0.7523, f1:0.7630
+2025-06-26 17:07:36 PM - INFO - epoch: 250, precision: 0.7740 recall: 0.7523 f1_score: 0.7630
